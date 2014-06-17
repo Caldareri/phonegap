@@ -1,4 +1,0 @@
-phonegap
-========
-
-prueba Mapa porAlsina
